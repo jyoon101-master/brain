@@ -62,5 +62,21 @@
     "category": "marketing",
     "source": "ezerai",
     "verified": true
+  },
+  {
+    "id": "n17887659752992667",
+    "text": "# 스킬: 🎬 후킹 분석기\n본인 채널 최근 영상의 첫 30초 후킹 패턴을 자동 분석.\n실행 가능한 파이썬 스킬: <run>python3 \"D:\\ai\\connect-ai-packs\\스킬\\youtube\\hook_analyzer.py\"</run>",
+    "tags": [
+      "스킬",
+      "후킹",
+      "run",
+      "분석기",
+      "본인",
+      "채널"
+    ],
+    "ts": 1788765975299,
+    "category": "marketing",
+    "source": "ezerai",
+    "verified": true
   }
 ]
