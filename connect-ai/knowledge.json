@@ -78,5 +78,21 @@
     "category": "marketing",
     "source": "ezerai",
     "verified": true
+  },
+  {
+    "id": "n17888515805926166",
+    "text": "[운영 2026-09-08 사이클#14] Researcher: 분석: \"MrBeast 후킹 로직\"의 본인 채널 최근 영상의 첫 30초 후킹 패턴 자동 분석",
+    "tags": [
+      "분석",
+      "후킹",
+      "2026",
+      "운영",
+      "사이클",
+      "researcher"
+    ],
+    "ts": 1788851580593,
+    "category": "marketing",
+    "source": "agent",
+    "verified": true
   }
 ]
